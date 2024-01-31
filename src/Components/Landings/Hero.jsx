@@ -4,11 +4,11 @@ const Main = () => {
   return (
     <section
       id="hero"
-      className="bg-center bg-contain bg-[url('Images/bg.jpg')] bg-gray-700 bg-blend-multiply"
+      className="bg-center bg-contain bg-[url('/Images/bg.jpg')] bg-gray-700 bg-blend-multiply"
     >
       <div className="px-4 mx-auto max-w-screen-xl text-center py-72 lg:py-56">
         <h1 className="namecat mb-4 text-5xl tracking-wide font-extrabold leading-none text-white md:text-7xl lg:text-[10rem]">
-          &lt; PangSi &gt;
+          &lt; PangCi &gt;
         </h1>
         <p className="namecat mb-8 text-lg font-normal text-gray-300 lg:text-4xl mt-[-1.5rem] sm:px-16 lg:px-48">
           Pangsit Chili Oil

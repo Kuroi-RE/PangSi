@@ -11,7 +11,7 @@ const TopBar = () => {
           alt="Flowbite React Logo"
         />
         <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-          PangSi
+          PangCi
         </span>
       </Navbar.Brand>
       <Navbar.Toggle />

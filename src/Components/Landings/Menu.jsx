@@ -13,7 +13,7 @@ const Menu = () => {
     >
       <div className="pb-4">
         {" "}
-        <BreadCrumb Path="Menu" />
+        <BreadCrumb Path="Foods" Path2="Menu" />
       </div>
       <div className="flex flex-wrap">
         <Tabs aria-label="Tabs with underline" style="underline">
