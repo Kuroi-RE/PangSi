@@ -1,0 +1,20 @@
+section {
+  min-height: 100vh;
+}
+
+@font-face {
+  font-family: "namecat";
+  src: url("./assets/Font/Namecat.ttf") format("truetype");
+}
+@font-face {
+  font-family: "redhands";
+  src: url("./assets/Font/KGRedHands.ttf") format("truetype");
+}
+
+.namecat {
+  font-family: "namecat";
+}
+
+.redhands {
+  font-family: "redhands";
+}
