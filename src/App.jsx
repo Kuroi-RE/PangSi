@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import PreeOrder from "./Components/Alerts/PreeOrder";
 import Landing from "./Components/Landings";
-import TopBar from "./Components/Navbars/TopBar";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -37,7 +36,7 @@ function App() {
   return (
     <>
       {Notif ? <PreeOrder /> : ""}
-      <TopBar />
+
       <Landing />
     </>
   );
